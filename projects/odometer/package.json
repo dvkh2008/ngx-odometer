@@ -1,0 +1,23 @@
+{
+  "name": "ngx-odometer",
+  "description": "Odometer for Angular9",
+  "author": "Forked from Jose Andres <jmandreslopez@gmail.com>",
+  "license": "MIT",
+  "version": "1.1.5",
+  "Homepage": "https://github.com/dvkh2008/ngx-odometer",
+  "Repository": "https://github.com/dvkh2008/ngx-odometer",
+  "keywords": [
+    "hubspot",
+    "odometer",
+    "hubspot",
+    "angular2",
+    "angular9",
+    "ngx-odometer"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^9.0.6",
+    "@angular/core": "^9.0.6",
+    "tslib": "^1.10.0",
+    "@types/node": "^12.11.1"
+  }
+}
